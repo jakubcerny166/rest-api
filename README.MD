@@ -1,5 +1,5 @@
 Tento projekt je jednoduchý server s REST API, poskytuje základní operace pro správu blogu.
-
+livepage: http://13.48.106.215:4000/
 endpoints:
 
 GET /api/blogs
